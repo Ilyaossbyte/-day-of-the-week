@@ -17,11 +17,6 @@ In the "Advanced" tab → "Environment Variables".
 In the "System variables" section, find Path → click "Edit" → "New" → specify the path to the PHP folder (e.g., C:\php).
 Save the changes and restart CMD.
 
-
-Go to the official PHP website: php.net.
-   Choose the version of PHP you want to install and download the ZIP archive for Windows.
-Extract the archive:
-
    Extract the downloaded ZIP archive to a convenient location, for example, C:\php.
 Set up environment variables:
 
