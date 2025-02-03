@@ -54,5 +54,5 @@ php -S localhost:8000
    If PHP is not added to PATH, specify the full path:
 C:\php\php.exe -S localhost:8000
 
-in the browser write localhost:8000/Date/php
-or localhost:8000/Date(1)/php
+in the browser write localhost:8000/Date.php
+or localhost:8000/Date(1).php
