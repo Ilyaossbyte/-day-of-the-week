@@ -42,10 +42,9 @@ In the "Advanced" tab → "Environment Variables".
 In the "System variables" section, find Path → click "Edit" → "New" → specify the path to the PHP folder (e.g., C:\php).
 Save the changes and restart CMD.
 Open CMD and navigate to the project folder:
-cmd
-cd C:\projects\pet_project
-   If there are spaces in the path, use quotes:
-cd "C:\My Projects\pet_project"
+
+go down to the Date.php file using cd 
+(where you saved it)
 
 Start the built-in PHP server:
 php -S localhost:8000
